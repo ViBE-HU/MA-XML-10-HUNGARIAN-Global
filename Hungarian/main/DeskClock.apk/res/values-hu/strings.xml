@@ -500,8 +500,8 @@
     <string name="stopwatch_title">Stopper</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
-    <string name="sunday_short">Vas</string>
-    <string name="sunday_shortest">Vas</string>
+    <string name="sunday_short">V</string>
+    <string name="sunday_shortest">Vv.</string>
     <string name="system_permission_agree_desc">Az internethez való csatlakozás engedélyezés az alkalmazás számára az összes funkcióhoz való hozzáférés érdekében.</string>
     <string name="system_permission_main_purpose">Idő megtekintése, ébresztő/riasztás és időzítő beállítása, stopper használata</string>
     <string name="system_permission_purpose">Hétköznapi riasztások létrehozása és testreszabott csengőhangok beállítása</string>
@@ -549,8 +549,8 @@
     <string name="the_valentines_day">Valentin nap</string>
     <string name="the_water_lantern_festival">Vízi lámpásfesztivál</string>
     <string name="thursday">Csütörtök</string>
-    <string name="thursday_short">Csü</string>
-    <string name="thursday_shortest">Csü</string>
+    <string name="thursday_short">Cs</string>
+    <string name="thursday_shortest">cs.</string>
     <string name="time">Idő</string>
     <string name="time_picker_colon">:</string>
     <string name="time_picker_dialog_title">Időbeállítás</string>
@@ -603,8 +603,8 @@
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="tuesday">Kedd</string>
-    <string name="tuesday_short">Ked</string>
-    <string name="tuesday_shortest">Ked</string>
+    <string name="tuesday_short">K</string>
+    <string name="tuesday_shortest">k.</string>
     <string name="turn_off_a_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="turn_off_this_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="upcoming_alarm">Közelgő riasztás: %s</string>
@@ -628,7 +628,7 @@
     <string name="wake_up_time">Ébredés</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
-    <string name="wednesday_shortest">Sze</string>
+    <string name="wednesday_shortest">sze.</string>
     <string name="white_noise_selector">Hanganyag kiválasztása</string>
     <string name="workday_alarm_clock">Munkanapi ébresztő</string>
     <string name="worldclock_empty_text">Nincs Világóra beállítva</string>
@@ -642,8 +642,8 @@
     <string name="worldclock_world_time">Időzónák</string>
     <string name="worldcolock_date_display_prefix">Aktuális: </string>
     <string name="worldcolock_time_date">yyyy.MM.dd.</string>
-    <string name="worldcolock_timezone_current">Aktuális: %1$s</string>
-    <string name="worldcolock_timezone_current_date">yyyy.MM.dd.</string>
+    <string name="worldcolock_timezone_current">Jelenleg: %1$s</string>
+    <string name="worldcolock_timezone_current_date">yyyy. MM. dd.</string>
     <string name="worldcolock_timezone_date">MMM. dd.</string>
     <string name="worldcolock_timezone_gap">%s Ó</string>
     <string name="worldcolock_timezone_local">Ugyanaz, mint a helyi idő</string>
